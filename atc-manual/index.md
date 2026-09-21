@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 25.1.0
+## Guide Version: 26.4
 
 
 
@@ -26,13 +26,36 @@ Should
 
 
 
-## ATC Manual Version (Internal): 25.1.0
+## ATC Manual Version (Internal): 26.4
 
-## Last Updated: April 8th 2025
+## Last Updated: September 2026
 
++++ Summary of Changes - Version: 26.4 (CURRENT VERSION)
 
+| Location                       | Change                                                 |
+| ------------------------------ | ------------------------------------------------------ |
+| 2.2.3 Taxi and Use of Give Way | Added guidance for intersection departures             |
+| 6.3 Drag and Vector            | Added direct-to functionality under purpose            |
+| 6.7 Holding                    | Revised guidance to support reworked holding feature   |
+| 6.16 Direct-To                 | Provided guidance for direct-to functionality on radar |
+|                                |                                                        |
+|                                |                                                        |
+|                                |                                                        |
 
-+++ Summary of Changes - Version: 25.1.0 (CURRENT VERSION)
++++ Summary of Changes - Version: 26.2 
+
+| Location                                   | Change                                                       |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| 4.2.1 Remarks and NOTAMs                   | PA28 added to list of light aircraft                         |
+| 1B2.2 Violation Reasons                    | Only one violation per offense should be issued              |
+| 2.2.2 Ground Taxi & 3.2.6 Tower Departures | Controllers are `not` required to instruct jets to "Contact Tower when ready" since they're assumed ready |
+| 4.1.4 ATIS usage                           | Controllers may accomodate pilot requests based on traffic levels and workload |
+| 6.2.4 Radar Separation                     | Controllers may tap aircraft target to acknowledge collision alert and silence alarm |
+| 7a.2.3 Training Structure                  | Fixed typo                                                   |
+
++++
+
++++ Summary of Changes - Version: 25.1.0
 
 | Location | Change                                                       |
 | -------- | ------------------------------------------------------------ |
@@ -40,51 +63,15 @@ Should
 | 1A.3.1   | Controllers may use Autopilot+ while controlling or participating in TT |
 | 1A.6.5   | Updated training session requirement for radar trainees      |
 | 2.1.5    | Controllers may approve pushback without tail guidance or pushback path |
-| 7B.2     | Tester Role - Restructed tower practical test                |
+| 7B.2     | Tester Role - Restructered tower practical test              |
+
+------
+
+
+
+
 
 +++
 
 
-
-+++ Summary of Changes - Version: 24.4.1
-
-| Location | Change                                                |
-| -------- | ----------------------------------------------------- |
-| 2.1      | Auto Pushback video added                             |
-| 2.1.5    | Guidance on the use of Auto Pushback added            |
-| 2.1.6    | 2.1.5 moved to 2.1.6                                  |
-| 7B.1.2   | Reference to *#leadership-hq* Discord channel removed |
-
-+++ Summary of Changes - Version: 24.3.2
-
-| Location | Change        |
-| -------- | ------------- |
-| 6.11.3   | Image updated |
-
-+++
-
-
-
-+++ Summary of Changes - Version: 24.3.1
-
-| Location                                   | Change                                                       |
-| ------------------------------------------ | ------------------------------------------------------------ |
-| 1.1.2                                      | Reference to if-atc.com removed                              |
-| 1A.1.2                                     | Discord channel list updated                                 |
-| 1A.1.3                                     | Bot command table removed                                    |
-| 1A.2.1                                     | Controllers need to link their Discord account in-app before controlling |
-| 1A.3.1                                     | Clarification on reserving frequencies                       |
-| 1A.5.3                                     | Minimum controlling times amended to be based on ATC rank instead of airspace classification |
-| 1A.6.5                                     | Channel name updated                                         |
-| 1A.7.6                                     | Officer Check Ride rules amended to include reference to Center facilities |
-| 1A.8.2                                     | Table removed and clarification added to controller's receiving violations |
-| 1A.8.3                                     | Removed                                                      |
-| 2.1.3                                      | Use of give way added when it is not clear to pushback       |
-| 3.2.7                                      | Hyperlink typo fixed                                         |
-| 4.2.1                                      | Long Taxi and Flow Control removed                           |
-| 7A.1.6 / 7B.1.2 / 7C.1.5 / 7D.1.1 / 7E.1.1 | Channel list updated                                         |
-| 7A.2.8                                     | Removal of some training airport recommendations             |
-| 7B.2.1 / 7B.3.2                            | Clarification on where to find test locations                |
-
-+++
 
