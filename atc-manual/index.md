@@ -38,9 +38,6 @@ Should
 | 6.3 Drag and Vector            | Added direct-to functionality under purpose            |
 | 6.7 Holding                    | Revised guidance to support reworked holding feature   |
 | 6.16 Direct-To                 | Provided guidance for direct-to functionality on radar |
-|                                |                                                        |
-|                                |                                                        |
-|                                |                                                        |
 
 +++ Summary of Changes - Version: 26.2 
 
