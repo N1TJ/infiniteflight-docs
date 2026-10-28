@@ -8,7 +8,7 @@ meta: Introduction to the Infinite Flight Air Traffic Controller (IFATC) Manual.
 
 
 
-## Guide Version: 26.4
+## Guide Version: 26.5
 
 
 
@@ -26,11 +26,20 @@ Should
 
 
 
-## ATC Manual Version (Internal): 26.4
+## ATC Manual Version (Internal): 26.5
 
-## Last Updated: September 2026
+## Last Updated: October 2026
 
-+++ Summary of Changes - Version: 26.4 (CURRENT VERSION)
++++ Summary of Changes - Version: 26.5 (CURRENT VERSION)
+
+| Location                  | Change                                                       |
+| ------------------------- | ------------------------------------------------------------ |
+| 1A.3 Controller Rules     | Controllers may use handoff function or relief/split tags (tags will be sunset in next update) |
+| 1A.9 Frequency Handoff    | Added guidance for handing off frequency in-app              |
+| 7D.4 Supervisor Observing | Added Observe guidance for Supervisors                       |
+|                           |                                                              |
+
++++ Summary of Changes - Version: 26.5 
 
 | Location                       | Change                                                 |
 | ------------------------------ | ------------------------------------------------------ |
@@ -49,22 +58,6 @@ Should
 | 4.1.4 ATIS usage                           | Controllers may accomodate pilot requests based on traffic levels and workload |
 | 6.2.4 Radar Separation                     | Controllers may tap aircraft target to acknowledge collision alert and silence alarm |
 | 7a.2.3 Training Structure                  | Fixed typo                                                   |
-
-+++
-
-+++ Summary of Changes - Version: 25.1.0
-
-| Location | Change                                                       |
-| -------- | ------------------------------------------------------------ |
-| 1.1.3    | Changed manual feedback point of contact                     |
-| 1A.3.1   | Controllers may use Autopilot+ while controlling or participating in TT |
-| 1A.6.5   | Updated training session requirement for radar trainees      |
-| 2.1.5    | Controllers may approve pushback without tail guidance or pushback path |
-| 7B.2     | Tester Role - Restructered tower practical test              |
-
-------
-
-
 
 
 
